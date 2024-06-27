@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Kavinesh-react-Portfolio/static/css/main.c900eb3a.css",
+    "main.js": "/Kavinesh-react-Portfolio/static/js/main.adec8214.js",
+    "static/media/pro_pic_2.png": "/Kavinesh-react-Portfolio/static/media/pro_pic_2.e9a888c78cd7584f774e.png",
+    "static/media/weather_app_new.png": "/Kavinesh-react-Portfolio/static/media/weather_app_new.4d56ce7cc02390be469e.png",
+    "static/media/homez_page.png": "/Kavinesh-react-Portfolio/static/media/homez_page.6209d29ece8ec16218cd.png",
+    "static/media/Kavinesh_Profile.pdf": "/Kavinesh-react-Portfolio/static/media/Kavinesh_Profile.eabeb49d16c5d90cdd0c.pdf",
+    "static/media/expense_tracker_1.png": "/Kavinesh-react-Portfolio/static/media/expense_tracker_1.3f7bee5ba36d16218162.png",
+    "static/media/github.png": "/Kavinesh-react-Portfolio/static/media/github.f3d873d71aa989badfd2.png",
+    "static/media/linkedin.png": "/Kavinesh-react-Portfolio/static/media/linkedin.d21b834035baa551e886.png",
+    "static/media/call_icon.svg": "/Kavinesh-react-Portfolio/static/media/call_icon.2217d95fcbab55eab7307b4929ec13e0.svg",
+    "static/media/mail_icon.svg": "/Kavinesh-react-Portfolio/static/media/mail_icon.849e3ccbdf35897ce42cc41c4eb1aaa2.svg",
+    "index.html": "/Kavinesh-react-Portfolio/index.html",
+    "static/media/menu_close.svg": "/Kavinesh-react-Portfolio/static/media/menu_close.d177a733d1fa594adde48c1575c6a5b2.svg",
+    "static/media/nav_underline.svg": "/Kavinesh-react-Portfolio/static/media/nav_underline.cebecab7a0fc5359eb0de244beef527f.svg",
+    "static/media/theme_pattern.svg": "/Kavinesh-react-Portfolio/static/media/theme_pattern.0093952af51a14970103fc40554a0f97.svg",
+    "static/media/location_icon.svg": "/Kavinesh-react-Portfolio/static/media/location_icon.a412ca40d688a4e6ab42b03776abefc1.svg",
+    "static/media/menu_open.svg": "/Kavinesh-react-Portfolio/static/media/menu_open.6cc3b93d9911bae382a7fa6bc30ad1eb.svg",
+    "main.c900eb3a.css.map": "/Kavinesh-react-Portfolio/static/css/main.c900eb3a.css.map",
+    "main.adec8214.js.map": "/Kavinesh-react-Portfolio/static/js/main.adec8214.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c900eb3a.css",
+    "static/js/main.adec8214.js"
+  ]
+}
